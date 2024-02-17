@@ -14,7 +14,8 @@ class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Rafael de Novaes"
-        self.
+        self.degree = "System Analysis"
+        self.focus = "Back-End Development"
         self.role = "Software Developer"
         self.language_spoken = ["pt_BR", "en_US"]
 
