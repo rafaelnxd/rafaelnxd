@@ -26,7 +26,7 @@ me.say_hi()
 ---
 
 
-![rafaelnxd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnxd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![rafaelnxd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnxd&theme=radical&show_icons=true&hide_border=false&layout=compact)
 <br>
 
  
