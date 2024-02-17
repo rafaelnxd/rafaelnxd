@@ -16,11 +16,12 @@ class SoftwareDeveloper:
         self.name = "Rafael de Novaes"
         self.degree = "System Analysis"
         self.focus = "Back-End Development"
+        self.interests = ["Web Development", "Cybersecurity", "Game Programming", "Deep Learning", "Blockchain"]
         self.role = "Software Developer"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for dropping by, hope you find some of my projects interesting.")
 
 
 me = SoftwareDeveloper()
