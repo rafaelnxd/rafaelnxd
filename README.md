@@ -1,6 +1,7 @@
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frafaelnxd&countColor=%23263759)
+<br>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rafael-nxd/))
 &nbsp;
 
