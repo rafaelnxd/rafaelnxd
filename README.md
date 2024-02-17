@@ -25,7 +25,7 @@ me.say_hi()
 
 ---
 
-## What I use
+## What I use:
 
 **Programming Languages:**
 
