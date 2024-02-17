@@ -26,8 +26,6 @@ me.say_hi()
 ---
 
 
-<h3 align="left"> :</h3>
-
 ![rafaelnxd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnxd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br>
 
