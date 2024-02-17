@@ -36,7 +36,7 @@ me.say_hi()
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-**Frameworks**
+**Frameworks:**
 <br>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -45,7 +45,7 @@ me.say_hi()
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-**Technologies**
+**Technologies:**
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
