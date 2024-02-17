@@ -1,6 +1,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nxd/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frafaelnxd&countColor=%23263759)
+[![E-mail}(https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](rafaelnovaes46@outlook.com)
 
 
 
@@ -12,6 +13,7 @@ class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Rafael de Novaes"
+        self.
         self.role = "Software Developer"
         self.language_spoken = ["pt_BR", "en_US"]
 
