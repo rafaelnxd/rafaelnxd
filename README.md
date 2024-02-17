@@ -22,3 +22,8 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
+
+<div style="display: inline_block"><br>
+![rafaelnxd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnxd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
+
